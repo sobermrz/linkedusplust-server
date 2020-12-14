@@ -6,8 +6,6 @@ This is a social network web app that allows user to register acounts and share 
 
 This project was developed by MERN stack ([MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), [React](https://reactjs.org/), and [Node.js](https://nodejs.org/)) and ([socket.io](https://socket.io/)) to create real time chat application.
 
-The working website can be accessed [here](http://linkedus.andrewhu.net/).
-
 ## Quick Start
 
 ### Add a default.json file in config folder with the following

@@ -1,4 +1,5 @@
-# LinkedUs-Social Network Web App（Developed By Andrew Hu and Ruizhi Ma）
+# LinkedUs-Social Network Web App  
+(Developed By Andrew Hu and Ruizhi Ma)
 
 ## Introduction
 
